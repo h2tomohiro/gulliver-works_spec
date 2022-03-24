@@ -31,3 +31,4 @@ Applicationのエンドポイントで「都道府県一覧一覧を取得する
  - Applicationであれば、`/v1/prefectures` 
  - Enterpriseであれば、`/enterprise/v1/prefectures`
 というURIになります。
+# gulliver-works_spec
